@@ -24,5 +24,8 @@
   "devDependencies": {
     "mocha": "*",
     "mongoose": "5.7.x"
+  },
+  "dependencies": {
+    "underscore": "^1.13.1"
   }
 }
